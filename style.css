@@ -228,6 +228,7 @@ i + p{
     width:95%;
     margin: auto;
     margin-bottom: 30px;
+    z-index:2000;
 }
 
 #images + p{

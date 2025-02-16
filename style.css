@@ -141,7 +141,9 @@ nav span{
     object-fit: cover;
     margin-right: 50px;
 }
-
+#slider img{
+    padding:20px;
+}
 #slider{
     margin-bottom: 30px;
     margin-left: 100px;
